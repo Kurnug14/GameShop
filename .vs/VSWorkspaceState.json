@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\GameShop",
+    "\\GameShop\\Migrations",
+    "\\GameShop\\models"
+  ],
+  "SelectedNode": "\\GameShop\\Migrations\\20230705081632_InitialCreate.cs",
+  "PreviewInSolutionExplorer": false
+}
